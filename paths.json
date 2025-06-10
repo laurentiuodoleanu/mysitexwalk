@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/mysitexwalke/:/",
+    "/content/mysitexwalk/:/",
     "/content/mysitexwalk/configuration:/.helix/config.json",
     "/content/mysitexwalk/metadata:/metadata.json"
   ],
